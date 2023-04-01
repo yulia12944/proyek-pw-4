@@ -1,0 +1,21 @@
+form {
+    
+    margin:10px auto;
+}
+.search {
+    padding:8px 15px;
+    background:rgba(50, 50, 50, 0.2);
+    border:0px solid #dbdbdb;
+}
+.button {
+    position:relative;
+    padding:6px 15px;
+    left: -8px;
+    border:2px solid #9ac4df;
+    background-color:#afc9e0;
+    color:#fafafa;
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#70a2ce;
+}
